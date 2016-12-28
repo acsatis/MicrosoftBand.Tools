@@ -128,9 +128,9 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MicrosoftBand.Portables\MicrosoftBand.Portables.csproj">
+    <ProjectReference Include="..\MicrosoftBand.Portables\MicrosoftBand.Portable.csproj">
       <Project>{00b4fd6e-8fec-4baa-976a-55f173daa8e4}</Project>
-      <Name>MicrosoftBand.Portables</Name>
+      <Name>MicrosoftBand.Portable</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftBand.ThemeSelector", "MicrosoftBand.ThemeSelector\MicrosoftBand.ThemeSelector.csproj", "{906D1ADF-D6AA-45DA-82CD-FB7CC4D04FA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftBand.Portables", "MicrosoftBand.Portables\MicrosoftBand.Portables.csproj", "{00B4FD6E-8FEC-4BAA-976A-55F173DAA8E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftBand.Portable", "MicrosoftBand.Portables\MicrosoftBand.Portable.csproj", "{00B4FD6E-8FEC-4BAA-976A-55F173DAA8E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

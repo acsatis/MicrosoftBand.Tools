@@ -32,10 +32,6 @@ namespace MicrosoftBand.ThemeSelector
             this.InitializeComponent();
         }
 
-        private async void ButtonBase_OnClick(object sender, RoutedEventArgs e)
-        {
-        }
-
         private async void MainPage_OnLoaded(object sender, RoutedEventArgs e)
         {
             try

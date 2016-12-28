@@ -128,15 +128,15 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MicrosoftBand.Portables\MicrosoftBand.Portable.csproj">
-      <Project>{00b4fd6e-8fec-4baa-976a-55f173daa8e4}</Project>
-      <Name>MicrosoftBand.Portable</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="ViewModels\" />
     <Folder Include="Views\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MicrosoftBand.Portable\MicrosoftBand.Portable.csproj">
+      <Project>{00b4fd6e-8fec-4baa-976a-55f173daa8e4}</Project>
+      <Name>MicrosoftBand.Portable</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
